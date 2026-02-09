@@ -1,0 +1,4975 @@
+{
+  "version": "1.0",
+  "total": 451,
+  "categories": [
+    "Historie",
+    "Geografi",
+    "Videnskab",
+    "Kultur",
+    "Musik",
+    "Sport & Fritid"
+  ],
+  "questions": [
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Kalmarunionen dannet?",
+      "answers": [
+        "1387",
+        "1397",
+        "1407",
+        "1417"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var Danmarks første statsminister?",
+      "answers": [
+        "A.S. Ørsted",
+        "D.G. Monrad",
+        "C.A. Bluhme",
+        "J.B.S. Estrup"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev slaveriet afskaffet i danske kolonier?",
+      "answers": [
+        "1792",
+        "1803",
+        "1848",
+        "1863"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem skrev Danmarks historie 'Gesta Danorum'?",
+      "answers": [
+        "Saxo Grammaticus",
+        "Snorre Sturlason",
+        "Adam af Bremen",
+        "Sven Aggesen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Roskilde Freden indgået?",
+      "answers": [
+        "1645",
+        "1658",
+        "1660",
+        "1679"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge under Københavns Brand 1728?",
+      "answers": [
+        "Frederik III",
+        "Christian V",
+        "Frederik IV",
+        "Christian VI"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev enevælden indført i Danmark?",
+      "answers": [
+        "1648",
+        "1660",
+        "1665",
+        "1670"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem dræbte Grev Gerhard III i 1340?",
+      "answers": [
+        "Valdemar Atterdag",
+        "Niels Ebbesen",
+        "Christoffer II",
+        "Erik Menved"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev første Christiansborg ødelagt af brand?",
+      "answers": [
+        "1720",
+        "1794",
+        "1808",
+        "1884"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Skåne, Halland og Blekinge tabt til Sverige?",
+      "answers": [
+        "1645",
+        "1658",
+        "1660",
+        "1679"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under 29. august 1943?",
+      "answers": [
+        "Erik Scavenius",
+        "Vilhelm Buhl",
+        "Thorvald Stauning",
+        "Knud Kristensen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Stavnsåbåndet indført?",
+      "answers": [
+        "1733",
+        "1755",
+        "1760",
+        "1788"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under Danmarks neutralitet i 1. Verdenskrig?",
+      "answers": [
+        "Carl Theodor Zahle",
+        "Klaus Berntsen",
+        "Niels Neergaard",
+        "D.G. Monrad"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Stavnsåbåndet ophævet?",
+      "answers": [
+        "1788",
+        "1800",
+        "1810",
+        "1820"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem grundlagde Danmarks første folkehøjskole?",
+      "answers": [
+        "N.F.S. Grundtvig",
+        "Christen Kold",
+        "Ludvig Schrøder",
+        "Ernst Trier"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Velfærdsstaten grundlagt i Danmark?",
+      "answers": [
+        "1933",
+        "1945",
+        "1956",
+        "1961"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Danmark fik sin første grundlov?",
+      "answers": [
+        "Christian VII",
+        "Frederik VI",
+        "Christian VIII",
+        "Frederik VII"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år begyndte Reformationen i Danmark?",
+      "answers": [
+        "1517",
+        "1527",
+        "1536",
+        "1545"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af den liberale opposition 'Venstrereformpartiet'?",
+      "answers": [
+        "I.C. Christensen",
+        "J.C. Christensen",
+        "Klaus Berntsen",
+        "Christen Berg"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev København bombarderet af englænderne?",
+      "answers": [
+        "1801",
+        "1807",
+        "1814",
+        "1864"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var Danmarks første kvindelige minister?",
+      "answers": [
+        "Bodil Koch",
+        "Nina Bang",
+        "Lise Nørgaard",
+        "Bertel Haarder"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år mistede Danmark Norge?",
+      "answers": [
+        "1807",
+        "1814",
+        "1815",
+        "1864"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Det Konservative Folkeparti i starten af 1900-tallet?",
+      "answers": [
+        "J.C. Christensen",
+        "Carl Theodor Zahle",
+        "Niels Neergaard",
+        "Klaus Berntsen"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev den første bro over Lillebælt åbnet?",
+      "answers": [
+        "1925",
+        "1935",
+        "1950",
+        "1970"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var Danmarks første præsident i Folketinget?",
+      "answers": [
+        "Carl Ploug",
+        "I.A. Hansen",
+        "Herman Trier",
+        "Alfred Hage"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Landboreformerne gennemført?",
+      "answers": [
+        "1780erne",
+        "1790erne",
+        "1800erne",
+        "1810erne"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge under Grevens Fejde?",
+      "answers": [
+        "Christian II",
+        "Frederik I",
+        "Christian III",
+        "Frederik II"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Genforeningsfesten afholdt?",
+      "answers": [
+        "1918",
+        "1919",
+        "1920",
+        "1921"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af stænderforsamlingen i Roskilde?",
+      "answers": [
+        "Orla Lehmann",
+        "D.G. Monrad",
+        "Balthazar Christensen",
+        "Frederik Barfod"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Kanslergadeforliget indgået?",
+      "answers": [
+        "1929",
+        "1933",
+        "1935",
+        "1940"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under Påskekrisen 1920?",
+      "answers": [
+        "Niels Neergaard",
+        "Carl Theodor Zahle",
+        "Klaus Berntsen",
+        "M.P. Friis"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Storebæltsbroen åbnet?",
+      "answers": [
+        "1995",
+        "1997",
+        "1998",
+        "2000"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Provisorietiden i 1880erne?",
+      "answers": [
+        "J.B.S. Estrup",
+        "I.C. Christensen",
+        "D.G. Monrad",
+        "C.A. Bluhme"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Maribo Domkirke indviet?",
+      "answers": [
+        "1416",
+        "1470",
+        "1542",
+        "1600"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Bondevennernes Selskab?",
+      "answers": [
+        "Rasmus Sørensen",
+        "Balthasar Christensen",
+        "J.A. Hansen",
+        "Peder Christensen"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev den første danske koloni i Vestindien etableret?",
+      "answers": [
+        "1666",
+        "1672",
+        "1685",
+        "1700"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge under anlæggelsen af Kronborg Slot?",
+      "answers": [
+        "Christian III",
+        "Frederik II",
+        "Christian IV",
+        "Frederik III"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev det første socialdemokratiske ministerium dannet?",
+      "answers": [
+        "1924",
+        "1929",
+        "1933",
+        "1947"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Det Radikale Venstre ved partiets dannelse?",
+      "answers": [
+        "Carl Theodor Zahle",
+        "Christen Berg",
+        "Ove Rode",
+        "P. Munch"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Tivoli grundlagt?",
+      "answers": [
+        "1840",
+        "1843",
+        "1847",
+        "1850"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var Danmarks første kvindelige borgmester?",
+      "answers": [
+        "Thora Pedersen",
+        "Johanne Rambusch",
+        "Elna Munch",
+        "Marie Christensen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år fik danske kvinder stemmeret?",
+      "answers": [
+        "1901",
+        "1915",
+        "1918",
+        "1920"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Øresundsbroen blev åbnet?",
+      "answers": [
+        "Frederik IX",
+        "Margrethe II",
+        "Christian X",
+        "Frederik X"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev den første jernbane i Danmark åbnet?",
+      "answers": [
+        "1844",
+        "1847",
+        "1850",
+        "1856"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under OL i 1960?",
+      "answers": [
+        "H.C. Hansen",
+        "Viggo Kampmann",
+        "Jens Otto Krag",
+        "Hilmar Baunsgaard"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Rigsdagen delt i Landsting og Folketing?",
+      "answers": [
+        "1849",
+        "1866",
+        "1901",
+        "1915"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Folkesocialisterne?",
+      "answers": [
+        "Aksel Larsen",
+        "Ib Nørlund",
+        "Gert Petersen",
+        "Preben Wilhjelm"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Aalborg Universitet grundlagt?",
+      "answers": [
+        "1968",
+        "1970",
+        "1972",
+        "1974"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Danske Lov blev indført?",
+      "answers": [
+        "Frederik III",
+        "Christian V",
+        "Frederik IV",
+        "Christian VI"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Femern Bælt-forbindelsen besluttet?",
+      "answers": [
+        "1996",
+        "2008",
+        "2015",
+        "2020"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister da Danmark trådte ind i NATO?",
+      "answers": [
+        "Hans Hedtoft",
+        "Erik Eriksen",
+        "Viggo Kampmann",
+        "H.C. Hansen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev første udgave af Berlingske Tidende udgivet?",
+      "answers": [
+        "1749",
+        "1785",
+        "1801",
+        "1834"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var kong under Den Store Nordiske Krig?",
+      "answers": [
+        "Christian V",
+        "Frederik IV",
+        "Christian VI",
+        "Frederik V"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Island selvstændig?",
+      "answers": [
+        "1918",
+        "1944",
+        "1945",
+        "1950"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under systemskiftet i 1901?",
+      "answers": [
+        "J.H. Deuntzer",
+        "I.C. Christensen",
+        "J.C. Christensen",
+        "Klaus Berntsen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Den Sociale Museet åbnet?",
+      "answers": [
+        "1907",
+        "1920",
+        "1943",
+        "1956"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Retsforbundet?",
+      "answers": [
+        "Viggo Starcke",
+        "Henry Grunnet",
+        "Anders Andersen",
+        "Niels Anker Nielsen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Københavns Kommunes selvstyre indført?",
+      "answers": [
+        "1837",
+        "1857",
+        "1901",
+        "1938"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Den Store Belt blev bygget?",
+      "answers": [
+        "Frederik IX",
+        "Margrethe II",
+        "Christian X",
+        "Frederik X"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Christiania grundlagt?",
+      "answers": [
+        "1967",
+        "1971",
+        "1975",
+        "1980"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under Augustoprøret 1943?",
+      "answers": [
+        "Erik Scavenius",
+        "Vilhelm Buhl",
+        "Knud Kristensen",
+        "H.C. Hansen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Grønlands Hjemmestyre indført?",
+      "answers": [
+        "1953",
+        "1979",
+        "1989",
+        "2009"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge under anlæggelsen af Frederiksborg Slot?",
+      "answers": [
+        "Frederik II",
+        "Christian IV",
+        "Frederik III",
+        "Christian V"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Folkeskolen gjort obligatorisk?",
+      "answers": [
+        "1814",
+        "1849",
+        "1899",
+        "1933"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister ved Danmarks optagelse i EF?",
+      "answers": [
+        "Jens Otto Krag",
+        "Anker Jørgensen",
+        "Poul Hartling",
+        "Hilmar Baunsgaard"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Tycho Brahes observatorium på Hven bygget?",
+      "answers": [
+        "1576",
+        "1580",
+        "1590",
+        "1600"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Danmark fik telefon?",
+      "answers": [
+        "Frederik VII",
+        "Christian IX",
+        "Frederik VIII",
+        "Christian X"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Folkeafstemningen om Maastricht-traktaten afholdt?",
+      "answers": [
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under oliekrisen i 1973?",
+      "answers": [
+        "Jens Otto Krag",
+        "Anker Jørgensen",
+        "Poul Hartling",
+        "Hilmar Baunsgaard"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Danmarks Radio grundlagt?",
+      "answers": [
+        "1922",
+        "1925",
+        "1930",
+        "1935"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Kommunistpartiet i 1950erne?",
+      "answers": [
+        "Aksel Larsen",
+        "Alfred Jensen",
+        "Knud Jespersen",
+        "Ib Nørlund"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Folkekirkens reform gennemført?",
+      "answers": [
+        "1849",
+        "1868",
+        "1903",
+        "1922"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Danmarks første universitet blev grundlagt?",
+      "answers": [
+        "Christoffer af Bayern",
+        "Christian I",
+        "Hans",
+        "Christian II"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Hjemmeværnet oprettet?",
+      "answers": [
+        "1940",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister under Muhammad-krisen?",
+      "answers": [
+        "Anders Fogh Rasmussen",
+        "Poul Nyrup Rasmussen",
+        "Lars Løkke Rasmussen",
+        "Helle Thorning-Schmidt"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Københavns Universitet grundlagt?",
+      "answers": [
+        "1419",
+        "1479",
+        "1537",
+        "1620"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge under Englandskrigene 1801-1814?",
+      "answers": [
+        "Christian VI",
+        "Frederik V",
+        "Christian VII",
+        "Frederik VI"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev den første folkeafstemning i Danmark afholdt?",
+      "answers": [
+        "1915",
+        "1920",
+        "1939",
+        "1953"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var statsminister ved Folketingets første direkte valg?",
+      "answers": [
+        "D.G. Monrad",
+        "C.E. Fenger",
+        "C.A. Bluhme",
+        "J.B.S. Estrup"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Holmens Kirke indviet?",
+      "answers": [
+        "1562",
+        "1619",
+        "1641",
+        "1680"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var leder af Venstre ved systemskiftet 1901?",
+      "answers": [
+        "J.C. Christensen",
+        "I.C. Christensen",
+        "Christen Berg",
+        "Klaus Berntsen"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev den første S-togs linje åbnet?",
+      "answers": [
+        "1934",
+        "1941",
+        "1950",
+        "1963"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge da Carlsbergfondet blev oprettet?",
+      "answers": [
+        "Frederik VII",
+        "Christian IX",
+        "Frederik VIII",
+        "Christian X"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks største naturlige sø?",
+      "answers": [
+        "Arresø",
+        "Furesø",
+        "Esrum Sø",
+        "Tissø"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken ø ligger længst mod øst i Danmark?",
+      "answers": [
+        "Bornholm",
+        "Christiansø",
+        "Ertholmene",
+        "Saltholm"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks højeste punkt?",
+      "answers": [
+        "Yding Skovhøj",
+        "Ejer Bavnehøj",
+        "Møllehøj",
+        "Himmelbjerget"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilket stræde ligger mellem Fyn og Sjælland?",
+      "answers": [
+        "Kattegat",
+        "Øresund",
+        "Store Bælt",
+        "Lille Bælt"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks sydligste by?",
+      "answers": [
+        "Rødby",
+        "Gedser",
+        "Nakskov",
+        "Stubbekøbing"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø er størst i areal?",
+      "answers": [
+        "Fyn",
+        "Bornholm",
+        "Lolland",
+        "Falster"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks længste å?",
+      "answers": [
+        "Gudenåen",
+        "Skjern Å",
+        "Susåen",
+        "Storå"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilket distrikt i København har postnummer 1050?",
+      "answers": [
+        "Nørrebro",
+        "Kongens Nytorv",
+        "Vesterbro",
+        "Østerbro"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder halvøen nord for Limfjorden?",
+      "answers": [
+        "Thy",
+        "Salling",
+        "Djursland",
+        "Mols"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken by ligger ved nordenden af Mariager Fjord?",
+      "answers": [
+        "Hobro",
+        "Mariager",
+        "Hadsund",
+        "Ålborg"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks nordligste punkt?",
+      "answers": [
+        "Skagen",
+        "Grenen",
+        "Skagens Odde",
+        "Frederikshavn"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken ø ligger mellem Sjælland og Fyn?",
+      "answers": [
+        "Sprogø",
+        "Langeland",
+        "Ærø",
+        "Samsø"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks vestligste ø?",
+      "answers": [
+        "Rømø",
+        "Fanø",
+        "Mandø",
+        "Blåvandshuk"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken region ligger Aalborg i?",
+      "answers": [
+        "Region Midtjylland",
+        "Region Nordjylland",
+        "Region Syddanmark",
+        "Region Sjælland"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder øen ved Roskilde Fjord med vikingemuseum?",
+      "answers": [
+        "Orø",
+        "Sejrø",
+        "Sejerø",
+        "Hornsherred"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by kaldes 'Eventyrenes By'?",
+      "answers": [
+        "Odense",
+        "København",
+        "Ribe",
+        "Roskilde"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks næststørste ø?",
+      "answers": [
+        "Fyn",
+        "Bornholm",
+        "Sjælland",
+        "Lolland"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken by ligger ved udløbet af Gudenåen?",
+      "answers": [
+        "Silkeborg",
+        "Randers",
+        "Skanderborg",
+        "Horsens"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder halvøen øst for Århus Bugt?",
+      "answers": [
+        "Mols",
+        "Djursland",
+        "Salling",
+        "Thy"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø har flest indbyggere efter Sjælland og Fyn?",
+      "answers": [
+        "Bornholm",
+        "Lolland",
+        "Falster",
+        "Als"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er postummeret for Aarhus C?",
+      "answers": [
+        "8000",
+        "8100",
+        "8200",
+        "8900"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken fjord ligger mellem Jylland og Fyn?",
+      "answers": [
+        "Lille Bælt",
+        "Kattegat",
+        "Mariager Fjord",
+        "Ise Fjord"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks ældste købstad?",
+      "answers": [
+        "Hedeby",
+        "Ribe",
+        "Viborg",
+        "Roskilde"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø er kendt for sine hvide klipper?",
+      "answers": [
+        "Ærø",
+        "Møn",
+        "Bornholm",
+        "Samsø"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder den nordlige del af Sjælland?",
+      "answers": [
+        "Nordsjælland",
+        "Odsherred",
+        "Hornsherred",
+        "Halsnæs"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken by ligger ved Nissum Fjord?",
+      "answers": [
+        "Lemvig",
+        "Struer",
+        "Holstebro",
+        "Ringkøbing"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks længste bro?",
+      "answers": [
+        "Storebæltsbroen",
+        "Øresundsbroen",
+        "Lillebæltsbroen",
+        "Farøbroerne"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk halvø strækker sig mod nord?",
+      "answers": [
+        "Vendsyssel",
+        "Thy",
+        "Hanherred",
+        "Hardsyssel"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks dybeste fjord?",
+      "answers": [
+        "Limfjorden",
+        "Roskilde Fjord",
+        "Ise Fjord",
+        "Mariager Fjord"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by ligger ved Guldborgsund?",
+      "answers": [
+        "Nykøbing Falster",
+        "Stubbekøbing",
+        "Sakskøbing",
+        "Vordingborg"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder øgruppen nord for Bornholm?",
+      "answers": [
+        "Christiansø",
+        "Ertholmene",
+        "Saltholm",
+        "Middelgrunden"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk region har flest indbyggere?",
+      "answers": [
+        "Hovedstaden",
+        "Midtjylland",
+        "Nordjylland",
+        "Syddanmark"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks største nationalpark?",
+      "answers": [
+        "Thy Nationalpark",
+        "Mols Bjerge",
+        "Skjoldungernes Land",
+        "Vadehavet"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken by ligger ved den sydlige del af Limfjorden?",
+      "answers": [
+        "Struer",
+        "Lemvig",
+        "Skive",
+        "Nykøbing Mors"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder halvøen syd for Limfjorden?",
+      "answers": [
+        "Salling",
+        "Thy",
+        "Mors",
+        "Djursland"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø er kendt for labyrintpark?",
+      "answers": [
+        "Ærø",
+        "Langeland",
+        "Samsø",
+        "Møn"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks næststørste naturlige sø?",
+      "answers": [
+        "Furesø",
+        "Esrum Sø",
+        "Tissø",
+        "Søndersø"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by kaldes 'Festivalens By'?",
+      "answers": [
+        "Roskilde",
+        "Aarhus",
+        "Odense",
+        "Aalborg"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks største hede?",
+      "answers": [
+        "Karup Hede",
+        "Randbøl Hede",
+        "Borris Hede",
+        "Alheden"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by ligger ved Horsens Fjord?",
+      "answers": [
+        "Horsens",
+        "Juelsminde",
+        "Hedensted",
+        "Tørring"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks tredjestørste ø?",
+      "answers": [
+        "Bornholm",
+        "Lolland",
+        "Falster",
+        "Langeland"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø er delt af kommunegrænse?",
+      "answers": [
+        "Fyn",
+        "Als",
+        "Ærø",
+        "Mors"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder den smalle landtange ved Thyborøn?",
+      "answers": [
+        "Agger Tange",
+        "Harboøre Tange",
+        "Fjaltring",
+        "Lemvig Odde"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by ligger ved Ringkøbing Fjord?",
+      "answers": [
+        "Ringkøbing",
+        "Hvide Sande",
+        "Skjern",
+        "Videbæk"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks østligste punkt?",
+      "answers": [
+        "Østerskær",
+        "Dueodde",
+        "Christiansø",
+        "Hammeren"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk halvø strækker sig mod syd?",
+      "answers": [
+        "Djursland",
+        "Mols",
+        "Helgenæs",
+        "Nordsamsø"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks største plantage?",
+      "answers": [
+        "Silkeborg Vesterskov",
+        "Rold Skov",
+        "Grib Skov",
+        "Randbøl Hede"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by ligger ved Vejle Fjord?",
+      "answers": [
+        "Vejle",
+        "Fredericia",
+        "Kolding",
+        "Middelfart"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder øen i Kattegat mellem Jylland og Sjælland?",
+      "answers": [
+        "Samsø",
+        "Tunø",
+        "Endelave",
+        "Hjarnø"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk region har færrest indbyggere?",
+      "answers": [
+        "Nordjylland",
+        "Sjælland",
+        "Syddanmark",
+        "Hovedstaden"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks længste tunnel?",
+      "answers": [
+        "Limfjordstunnelen",
+        "Storebæltstunnelen",
+        "Drogdentunnelen",
+        "Øresundstunnelen"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken by ligger ved vestbredden af Ålborg Bugt?",
+      "answers": [
+        "Aalborg",
+        "Nørresundby",
+        "Hals",
+        "Ålbæk"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder øen mellem Fyn og Jylland?",
+      "answers": [
+        "Fænø",
+        "Brandsø",
+        "Bågø",
+        "Årø"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø er kendt for whisky-destilleri?",
+      "answers": [
+        "Fur",
+        "Mors",
+        "Læsø",
+        "Anholt"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks fjerdestørste ø?",
+      "answers": [
+        "Falster",
+        "Langeland",
+        "Als",
+        "Mors"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by kaldes 'Domkirke-byen'?",
+      "answers": [
+        "Roskilde",
+        "Ribe",
+        "Viborg",
+        "Odense"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks største å-system?",
+      "answers": [
+        "Gudenå-systemet",
+        "Skjern Å-systemet",
+        "Storå-systemet",
+        "Susåen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø har salt-udvinding?",
+      "answers": [
+        "Mors",
+        "Læsø",
+        "Fur",
+        "Anholt"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks vestligste punkt?",
+      "answers": [
+        "Blåvandshuk",
+        "Nymindegab",
+        "Henne Strand",
+        "Hvide Sande"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk region har Esbjerg som største by?",
+      "answers": [
+        "Syddanmark",
+        "Midtjylland",
+        "Nordjylland",
+        "Sjælland"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks nordøstligste ø?",
+      "answers": [
+        "Christiansø",
+        "Græsholm",
+        "Frederiksø",
+        "Ertholmene"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by ligger ved Kolding Fjord?",
+      "answers": [
+        "Kolding",
+        "Vejle",
+        "Fredericia",
+        "Middelfart"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder øen nord for Fyn?",
+      "answers": [
+        "Endelave",
+        "Samsø",
+        "Tunø",
+        "Æbelø"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk halvø ligger mellem Limfjorden og Kattegat?",
+      "answers": [
+        "Djursland",
+        "Thy",
+        "Salling",
+        "Mols"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks største moselv?",
+      "answers": [
+        "Kongeåen",
+        "Vidåen",
+        "Brede Å",
+        "Grindsted Å"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by er kendt for Trapholt Museum?",
+      "answers": [
+        "Kolding",
+        "Vejle",
+        "Fredericia",
+        "Horsens"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks femtestørste ø?",
+      "answers": [
+        "Als",
+        "Mors",
+        "Langeland",
+        "Ærø"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø er kendt for Knuthenborg Safaripark?",
+      "answers": [
+        "Lolland",
+        "Falster",
+        "Møn",
+        "Langeland"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks dybeste punkt under havoverfladen?",
+      "answers": [
+        "Lille Middelgrund",
+        "Lillebæltsgrunden",
+        "Ålborg Dyb",
+        "Læsø Rende"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by kaldes 'Limfjordsbyen'?",
+      "answers": [
+        "Aalborg",
+        "Løgstør",
+        "Nykøbing Mors",
+        "Thisted"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder Danmarks største skovområde?",
+      "answers": [
+        "Silkeborg Vesterskov",
+        "Rold Skov",
+        "Gribskov",
+        "Klosterheden"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk region har Herning som største by?",
+      "answers": [
+        "Midtjylland",
+        "Syddanmark",
+        "Nordjylland",
+        "Sjælland"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad hedder øen med Danmarks eneste vulkan?",
+      "answers": [
+        "Fur",
+        "Mors",
+        "Læsø",
+        "Anholt"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk by er kendt for Legoland?",
+      "answers": [
+        "Billund",
+        "Vejle",
+        "Kolding",
+        "Grindsted"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvad er Danmarks højeste kyst?",
+      "answers": [
+        "Stevns Klint",
+        "Møns Klint",
+        "Bovbjerg",
+        "Bulbjerg"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Geografi",
+      "question": "Hvilken dansk ø har Marstal som største by?",
+      "answers": [
+        "Ærø",
+        "Langeland",
+        "Als",
+        "Tåsinge"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede elektromagnetismen?",
+      "answers": [
+        "Hans Christian Ørsted",
+        "Niels Bohr",
+        "Ole Rømer",
+        "Tycho Brahe"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har atomnummer 1?",
+      "answers": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Ilt"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede lysets hastighed?",
+      "answers": [
+        "Ole Rømer",
+        "Tycho Brahe",
+        "Niels Bohr",
+        "Hans Christian Ørsted"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Fe?",
+      "answers": [
+        "Fluor",
+        "Fermium",
+        "Jern",
+        "Fosfor"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede atommodellen med elektronskaller?",
+      "answers": [
+        "Niels Bohr",
+        "Ernest Rutherford",
+        "J.J. Thomson",
+        "Werner Heisenberg"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har den højeste atomvægt?",
+      "answers": [
+        "Uran",
+        "Plutonium",
+        "Oganesson",
+        "Lawrencium"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er lysets hastighed ca.?",
+      "answers": [
+        "300.000 km/s",
+        "150.000 km/s",
+        "500.000 km/s",
+        "100.000 km/s"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof er mest almindeligt i universet?",
+      "answers": [
+        "Helium",
+        "Hydrogen",
+        "Ilt",
+        "Carbon"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede DNA's dobbelt-helix struktur?",
+      "answers": [
+        "Watson og Crick",
+        "Rosalind Franklin",
+        "Linus Pauling",
+        "Maurice Wilkins"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Au?",
+      "answers": [
+        "Sølv",
+        "Guld",
+        "Aluminium",
+        "Argon"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er temperaturen ved absolut nulpunkt?",
+      "answers": [
+        "-273,15°C",
+        "-300°C",
+        "-250°C",
+        "-200°C"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof er mest almindeligt i jordens skorpe?",
+      "answers": [
+        "Jern",
+        "Silicium",
+        "Ilt",
+        "Aluminium"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede relativitetsteorien?",
+      "answers": [
+        "Newton",
+        "Einstein",
+        "Bohr",
+        "Hawking"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Hg?",
+      "answers": [
+        "Hydrogen",
+        "Helium",
+        "Kviksølv",
+        "Hafnium"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er tyngdeaccelerationen på jorden ca.?",
+      "answers": [
+        "9,8 m/s²",
+        "10,5 m/s²",
+        "8,5 m/s²",
+        "12 m/s²"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har lavest atomvægt?",
+      "answers": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Brint"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede penicillin?",
+      "answers": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Robert Koch",
+        "Joseph Lister"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Na?",
+      "answers": [
+        "Natrium",
+        "Nitrogen",
+        "Neon",
+        "Nickel"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er hastigheden af lyd i luft ca.?",
+      "answers": [
+        "343 m/s",
+        "500 m/s",
+        "200 m/s",
+        "1000 m/s"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket metal er flydende ved stuetemperatur?",
+      "answers": [
+        "Kviksølv",
+        "Brom",
+        "Gallium",
+        "Natrium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede evolutionsteorien?",
+      "answers": [
+        "Lamarck",
+        "Darwin",
+        "Wallace",
+        "Mendel"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol K?",
+      "answers": [
+        "Kobolt",
+        "Kalium",
+        "Krypton",
+        "Kadmium"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er Plancks konstant ca.?",
+      "answers": [
+        "6,63 × 10⁻³⁴ Js",
+        "6,67 × 10⁻¹¹ Nm²/kg²",
+        "3 × 10⁸ m/s",
+        "9,8 m/s²"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Ag?",
+      "answers": [
+        "Aluminium",
+        "Argon",
+        "Sølv",
+        "Guld"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede røntgenstråler?",
+      "answers": [
+        "Wilhelm Röntgen",
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Pb?",
+      "answers": [
+        "Fosfor",
+        "Platin",
+        "Bly",
+        "Plutonium"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er gravitationskonstanten ca.?",
+      "answers": [
+        "6,67 × 10⁻¹¹ Nm²/kg²",
+        "9,8 m/s²",
+        "3 × 10⁸ m/s",
+        "6,63 × 10⁻³⁴ Js"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Cu?",
+      "answers": [
+        "Carbon",
+        "Kobber",
+        "Kalcium",
+        "Curium"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede radioaktivitet?",
+      "answers": [
+        "Marie Curie",
+        "Henri Becquerel",
+        "Ernest Rutherford",
+        "Wilhelm Röntgen"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Sn?",
+      "answers": [
+        "Silicium",
+        "Tin",
+        "Sølv",
+        "Svovl"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er Avogadros tal ca.?",
+      "answers": [
+        "6,02 × 10²³",
+        "3 × 10⁸",
+        "9,8",
+        "6,67 × 10⁻¹¹"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Zn?",
+      "answers": [
+        "Zirkonium",
+        "Zink",
+        "Xenon",
+        "Yttrium"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede neutronen?",
+      "answers": [
+        "James Chadwick",
+        "Ernest Rutherford",
+        "J.J. Thomson",
+        "Niels Bohr"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol W?",
+      "answers": [
+        "Wolfram",
+        "Wismuth",
+        "Vandstof",
+        "Xenon"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er Boltzmanns konstant ca.?",
+      "answers": [
+        "1,38 × 10⁻²³ J/K",
+        "6,67 × 10⁻¹¹ Nm²/kg²",
+        "9,8 m/s²",
+        "6,02 × 10²³"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Pt?",
+      "answers": [
+        "Plutonium",
+        "Platin",
+        "Fosfor",
+        "Kalium"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede usikkerhedsprincippet?",
+      "answers": [
+        "Heisenberg",
+        "Schrödinger",
+        "Dirac",
+        "Bohr"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol U?",
+      "answers": [
+        "Uran",
+        "Unobtanium",
+        "Ununoctium",
+        "Uranium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er elektronens ladning ca.?",
+      "answers": [
+        "1,6 × 10⁻¹⁹ C",
+        "9,1 × 10⁻³¹ kg",
+        "1,67 × 10⁻²⁷ kg",
+        "6,63 × 10⁻³⁴ Js"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Ra?",
+      "answers": [
+        "Radon",
+        "Radium",
+        "Rubidium",
+        "Rhenium"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede elektronen?",
+      "answers": [
+        "J.J. Thomson",
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "James Chadwick"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol He?",
+      "answers": [
+        "Hydrogen",
+        "Helium",
+        "Hafnium",
+        "Holmium"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er elektronens masse ca.?",
+      "answers": [
+        "9,1 × 10⁻³¹ kg",
+        "1,67 × 10⁻²⁷ kg",
+        "1,6 × 10⁻¹⁹ C",
+        "6,63 × 10⁻³⁴ Js"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Ne?",
+      "answers": [
+        "Neon",
+        "Nitrogen",
+        "Natrium",
+        "Nickel"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede loven om bevægelse?",
+      "answers": [
+        "Newton",
+        "Galilei",
+        "Kepler",
+        "Einstein"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Ar?",
+      "answers": [
+        "Argon",
+        "Arsenik",
+        "Sølv",
+        "Aluminium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er protonens masse ca.?",
+      "answers": [
+        "1,67 × 10⁻²⁷ kg",
+        "9,1 × 10⁻³¹ kg",
+        "1,6 × 10⁻¹⁹ C",
+        "6,63 × 10⁻³⁴ Js"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Kr?",
+      "answers": [
+        "Krypton",
+        "Krom",
+        "Kalium",
+        "Kobolt"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede kontinentalforskydning?",
+      "answers": [
+        "Alfred Wegener",
+        "Charles Darwin",
+        "Louis Agassiz",
+        "James Hutton"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Xe?",
+      "answers": [
+        "Xenon",
+        "Xanthium",
+        "Yttrium",
+        "Zirkonium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er neutronens masse ca.?",
+      "answers": [
+        "1,67 × 10⁻²⁷ kg",
+        "9,1 × 10⁻³¹ kg",
+        "1,6 × 10⁻¹⁹ C",
+        "6,63 × 10⁻³⁴ Js"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Rn?",
+      "answers": [
+        "Radon",
+        "Radium",
+        "Rhenium",
+        "Rubidium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem formulerede anden termodynamikkens lov?",
+      "answers": [
+        "Clausius",
+        "Kelvin",
+        "Carnot",
+        "Boltzmann"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol C?",
+      "answers": [
+        "Kalcium",
+        "Kobolt",
+        "Carbon",
+        "Krom"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er lysets bølgelængde i rødt lys ca.?",
+      "answers": [
+        "700 nm",
+        "500 nm",
+        "400 nm",
+        "600 nm"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol N?",
+      "answers": [
+        "Natrium",
+        "Nitrogen",
+        "Neon",
+        "Nickel"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede oxygenet?",
+      "answers": [
+        "Joseph Priestley",
+        "Carl Wilhelm Scheele",
+        "Antoine Lavoisier",
+        "Begge A og B"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol O?",
+      "answers": [
+        "Osmium",
+        "Oxygen",
+        "Guld",
+        "Oganesson"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er lysets bølgelængde i blåt lys ca.?",
+      "answers": [
+        "450 nm",
+        "550 nm",
+        "650 nm",
+        "350 nm"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol F?",
+      "answers": [
+        "Fluor",
+        "Jern",
+        "Francium",
+        "Fermium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede celleteori?",
+      "answers": [
+        "Schleiden og Schwann",
+        "Hooke",
+        "Virchow",
+        "Leeuwenhoek"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Cl?",
+      "answers": [
+        "Klor",
+        "Kalcium",
+        "Kobolt",
+        "Carbon"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er solens overflade-temperatur ca.?",
+      "answers": [
+        "5.500°C",
+        "10.000°C",
+        "3.000°C",
+        "15.000°C"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol Br?",
+      "answers": [
+        "Brom",
+        "Bor",
+        "Beryllium",
+        "Barium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem opdagede insulin?",
+      "answers": [
+        "Banting og Best",
+        "Paulescu",
+        "Macleod",
+        "A og C"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol I?",
+      "answers": [
+        "Jod",
+        "Jern",
+        "Iridium",
+        "Indium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er jordens radius ca.?",
+      "answers": [
+        "6.371 km",
+        "7.000 km",
+        "5.500 km",
+        "8.000 km"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol S?",
+      "answers": [
+        "Silicium",
+        "Svovl",
+        "Natrium",
+        "Tin"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvem udviklede vaccinationsprincippet?",
+      "answers": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Robert Koch",
+        "Jonas Salk"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvilket grundstof har kemisk symbol P?",
+      "answers": [
+        "Fosfor",
+        "Platin",
+        "Bly",
+        "Plutonium"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Videnskab",
+      "question": "Hvad er jordens alder ca.?",
+      "answers": [
+        "4,5 mia. år",
+        "3,5 mia. år",
+        "5,5 mia. år",
+        "6,5 mia. år"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Guernica?",
+      "answers": [
+        "Picasso",
+        "Dalí",
+        "Miró",
+        "Goya"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Hamlet?",
+      "answers": [
+        "Ibsen",
+        "Shakespeare",
+        "Molière",
+        "Goethe"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum ligger i København?",
+      "answers": [
+        "Louvre",
+        "Nationalmuseet",
+        "British Museum",
+        "Prado"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev 1984?",
+      "answers": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Mona Lisa?",
+      "answers": [
+        "Michelangelo",
+        "Raphael",
+        "Leonardo da Vinci",
+        "Donatello"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Den lille Havfrue?",
+      "answers": [
+        "Grimm Brødrene",
+        "Hans Christian Andersen",
+        "Astrid Lindgren",
+        "Selma Lagerlöf"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har Rådhuspladsen?",
+      "answers": [
+        "Nationalmuseet",
+        "Glyptoteket",
+        "Statens Museum",
+        "Thorvaldsens Museum"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Ringenes Herre?",
+      "answers": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "George R.R. Martin",
+        "Terry Pratchett"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Solsikkerne?",
+      "answers": [
+        "Monet",
+        "Renoir",
+        "Van Gogh",
+        "Gauguin"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Harry Potter?",
+      "answers": [
+        "J.K. Rowling",
+        "Stephenie Meyer",
+        "Suzanne Collins",
+        "Veronica Roth"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket slot er Danmarks største?",
+      "answers": [
+        "Rosenborg",
+        "Frederiksborg",
+        "Christiansborg",
+        "Kronborg"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Odysseen?",
+      "answers": [
+        "Platon",
+        "Homer",
+        "Aristoteles",
+        "Sokrates"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Det Skrig?",
+      "answers": [
+        "Munch",
+        "Klimt",
+        "Kandinsky",
+        "Kirchner"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Eventyret om København?",
+      "answers": [
+        "Karen Blixen",
+        "Tove Ditlevsen",
+        "Klaus Rifbjerg",
+        "Hans Christian Andersen"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har Guldhorn ene?",
+      "answers": [
+        "Nationalmuseet",
+        "Glyptoteket",
+        "Staten Museum",
+        "Vikingeskibsmuseet"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Karamazov Brødrene?",
+      "answers": [
+        "Tolstoj",
+        "Dostojevskij",
+        "Tjekhov",
+        "Gogol"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Nattevagten?",
+      "answers": [
+        "Vermeer",
+        "Rembrandt",
+        "Hals",
+        "van Dyck"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Pigen med Perleøreringen?",
+      "answers": [
+        "Tracy Chevalier",
+        "Donna Tartt",
+        "Sarah Waters",
+        "Tracey Emin"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket år blev Tivoli grundlagt?",
+      "answers": [
+        "1840",
+        "1843",
+        "1847",
+        "1850"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Krig og Fred?",
+      "answers": [
+        "Dostojevskij",
+        "Tolstoj",
+        "Tjekhov",
+        "Puškin"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Skabelsen af Adam?",
+      "answers": [
+        "Leonardo",
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Steppulven?",
+      "answers": [
+        "Thomas Mann",
+        "Hermann Hesse",
+        "Franz Kafka",
+        "Robert Musil"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket slot bruges til kongehus?",
+      "answers": [
+        "Rosenborg",
+        "Amalienborg",
+        "Fredensborg",
+        "Marselisborg"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Don Quixote?",
+      "answers": [
+        "Lope de Vega",
+        "Cervantes",
+        "Calderón",
+        "Quevedo"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Vandreren over Tågemassen?",
+      "answers": [
+        "Turner",
+        "Constable",
+        "Friedrich",
+        "Runge"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Ulysses?",
+      "answers": [
+        "Virginia Woolf",
+        "James Joyce",
+        "T.S. Eliot",
+        "Ezra Pound"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har Louisiana?",
+      "answers": [
+        "Humlebæk",
+        "København",
+        "Aarhus",
+        "Odense"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Frankenstein?",
+      "answers": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Edgar Allan Poe",
+        "H.P. Lovecraft"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Impressionisme, Solopgang?",
+      "answers": [
+        "Monet",
+        "Manet",
+        "Renoir",
+        "Degas"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Fahrenheit 451?",
+      "answers": [
+        "Orwell",
+        "Bradbury",
+        "Huxley",
+        "Asimov"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket år blev Operaen i København åbnet?",
+      "answers": [
+        "1999",
+        "2000",
+        "2003",
+        "2005"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Iliaden?",
+      "answers": [
+        "Vergil",
+        "Homer",
+        "Ovid",
+        "Hesiod"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Liljerne?",
+      "answers": [
+        "Van Gogh",
+        "Monet",
+        "Renoir",
+        "Manet"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Faust?",
+      "answers": [
+        "Schiller",
+        "Goethe",
+        "Lessing",
+        "Heine"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket slot har Hamlet-forbindelse?",
+      "answers": [
+        "Rosenborg",
+        "Kronborg",
+        "Frederiksborg",
+        "Christiansborg"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Moby Dick?",
+      "answers": [
+        "Mark Twain",
+        "Herman Melville",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede American Gothic?",
+      "answers": [
+        "Edward Hopper",
+        "Grant Wood",
+        "Norman Rockwell",
+        "Andrew Wyeth"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Paradis Tabt?",
+      "answers": [
+        "John Donne",
+        "John Milton",
+        "Edmund Spenser",
+        "Christopher Marlowe"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har Den Sorte Diamant?",
+      "answers": [
+        "Nationalmuseet",
+        "Det Kongelige Bibliotek",
+        "Statens Museum",
+        "Glyptoteket"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Candide?",
+      "answers": [
+        "Rousseau",
+        "Voltaire",
+        "Diderot",
+        "Montesquieu"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Stjernenatten?",
+      "answers": [
+        "Monet",
+        "Van Gogh",
+        "Gauguin",
+        "Cézanne"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Emma?",
+      "answers": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Jane Austen",
+        "George Eliot"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket år blev Rundetårn bygget?",
+      "answers": [
+        "1637",
+        "1642",
+        "1650",
+        "1660"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Stolt og Fordom?",
+      "answers": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Jane Austen",
+        "George Eliot"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Mælkepigen?",
+      "answers": [
+        "Rembrandt",
+        "Vermeer",
+        "Hals",
+        "Steen"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Dracula?",
+      "answers": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Edgar Allan Poe",
+        "H.P. Lovecraft"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har ARoS?",
+      "answers": [
+        "København",
+        "Aarhus",
+        "Odense",
+        "Aalborg"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Den Røde og den Sorte?",
+      "answers": [
+        "Victor Hugo",
+        "Stendhal",
+        "Balzac",
+        "Flaubert"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Les Demoiselles d'Avignon?",
+      "answers": [
+        "Picasso",
+        "Braque",
+        "Matisse",
+        "Léger"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Anna Karenina?",
+      "answers": [
+        "Dostojevskij",
+        "Tolstoj",
+        "Tjekhov",
+        "Turgenjev"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket slot bygede Christian IV?",
+      "answers": [
+        "Rosenborg",
+        "Kronborg",
+        "Frederiksborg",
+        "Alle tre"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Metamorfosen?",
+      "answers": [
+        "Hesse",
+        "Kafka",
+        "Mann",
+        "Musil"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Pigen med Perleøreringen?",
+      "answers": [
+        "Rembrandt",
+        "Vermeer",
+        "Hals",
+        "van Dyck"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Den Gamle Mand og Havet?",
+      "answers": [
+        "Steinbeck",
+        "Hemingway",
+        "Faulkner",
+        "Fitzgerald"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har Statens Museum for Kunst?",
+      "answers": [
+        "København",
+        "Aarhus",
+        "Odense",
+        "Aalborg"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Inferno?",
+      "answers": [
+        "Petrarca",
+        "Dante",
+        "Boccaccio",
+        "Ariosto"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Venus' Fødsel?",
+      "answers": [
+        "Leonardo",
+        "Michelangelo",
+        "Raphael",
+        "Botticelli"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Tryllefløjten?",
+      "answers": [
+        "Mozart",
+        "Beethoven",
+        "Wagner",
+        "Verdi"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket år blev Ny Carlsberg Glyptotek åbnet?",
+      "answers": [
+        "1882",
+        "1897",
+        "1906",
+        "1915"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Odysseus i Rummet?",
+      "answers": [
+        "Clarke",
+        "Asimov",
+        "Heinlein",
+        "Det er ikke en rigtig bog"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Treenigheden?",
+      "answers": [
+        "Leonardo",
+        "Michelangelo",
+        "Raphael",
+        "Masaccio"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Robinson Crusoe?",
+      "answers": [
+        "Jonathan Swift",
+        "Daniel Defoe",
+        "Henry Fielding",
+        "Samuel Richardson"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket slot er Danmarks ældste kongeslot?",
+      "answers": [
+        "Rosenborg",
+        "Kronborg",
+        "Frederiksborg",
+        "Koldinghus"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Decameron?",
+      "answers": [
+        "Dante",
+        "Petrarca",
+        "Boccaccio",
+        "Ariosto"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Nadverden?",
+      "answers": [
+        "Michelangelo",
+        "Leonardo",
+        "Raphael",
+        "Tizian"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Canterbury Fortællinger?",
+      "answers": [
+        "Shakespeare",
+        "Chaucer",
+        "Marlowe",
+        "Spenser"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket museum har Vikingeskibsmuseet?",
+      "answers": [
+        "København",
+        "Roskilde",
+        "Aarhus",
+        "Odense"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Sult?",
+      "answers": [
+        "Ibsen",
+        "Hamsun",
+        "Strindberg",
+        "Lagerlöf"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem malede Salvator Mundi?",
+      "answers": [
+        "Michelangelo",
+        "Leonardo",
+        "Raphael",
+        "Tizian"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Brødrene Løvehjerte?",
+      "answers": [
+        "Tove Jansson",
+        "Astrid Lindgren",
+        "Selma Lagerlöf",
+        "Elsa Beskow"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvilket år blev Statens Museum for Kunst åbnet?",
+      "answers": [
+        "1856",
+        "1896",
+        "1906",
+        "1916"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Kultur",
+      "question": "Hvem skrev Iliaden og Odysseen?",
+      "answers": [
+        "Vergil",
+        "Homer",
+        "Ovid",
+        "Hesiod"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Wonderwall?",
+      "answers": [
+        "Blur",
+        "Oasis",
+        "Radiohead",
+        "Pulp"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år vandt Emmelie de Forest Eurovision?",
+      "answers": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i Metallica?",
+      "answers": [
+        "James Hetfield",
+        "Lars Ulrich",
+        "Kirk Hammett",
+        "Robert Trujillo"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Stairway to Heaven?",
+      "answers": [
+        "The Who",
+        "Led Zeppelin",
+        "Deep Purple",
+        "Black Sabbath"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Bohemian Rhapsody?",
+      "answers": [
+        "Queen",
+        "The Beatles",
+        "Rolling Stones",
+        "The Who"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller Lars Ulrich?",
+      "answers": [
+        "Guitar",
+        "Trommer",
+        "Bas",
+        "Keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem lavede albummet Thriller?",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Madonna",
+        "Whitney Houston"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket dansk band lavede Bakerman?",
+      "answers": [
+        "Laid Back",
+        "Dizzy Mizz Lizzy",
+        "D-A-D",
+        "Kashmir"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Smells Like Teen Spirit?",
+      "answers": [
+        "Pearl Jam",
+        "Soundgarden",
+        "Nirvana",
+        "Alice in Chains"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år døde Kurt Cobain?",
+      "answers": [
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i U2?",
+      "answers": [
+        "The Edge",
+        "Bono",
+        "Adam Clayton",
+        "Larry Mullen"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Hotel California?",
+      "answers": [
+        "Eagles",
+        "Fleetwood Mac",
+        "Boston",
+        "Journey"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Purple Rain?",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "David Bowie",
+        "Freddie Mercury"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller Slash?",
+      "answers": [
+        "Trommer",
+        "Bas",
+        "Guitar",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem lavede albummet Dark Side of the Moon?",
+      "answers": [
+        "Pink Floyd",
+        "Led Zeppelin",
+        "The Doors",
+        "Genesis"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev MTV startet?",
+      "answers": [
+        "1979",
+        "1981",
+        "1983",
+        "1985"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Imagine?",
+      "answers": [
+        "Paul McCartney",
+        "John Lennon",
+        "George Harrison",
+        "Ringo Starr"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Comfortably Numb?",
+      "answers": [
+        "The Who",
+        "Pink Floyd",
+        "Genesis",
+        "Yes"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er kendt som King of Pop?",
+      "answers": [
+        "Elvis",
+        "Prince",
+        "Michael Jackson",
+        "Freddie Mercury"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev Roskilde Festival startet?",
+      "answers": [
+        "1969",
+        "1970",
+        "1971",
+        "1972"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Like a Rolling Stone?",
+      "answers": [
+        "Bob Dylan",
+        "Neil Young",
+        "Bruce Springsteen",
+        "Tom Petty"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Smoke on the Water?",
+      "answers": [
+        "Led Zeppelin",
+        "Black Sabbath",
+        "Deep Purple",
+        "Uriah Heep"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i Volbeat?",
+      "answers": [
+        "Michael Poulsen",
+        "Jon Larsen",
+        "Anders Kjølholm",
+        "Kasper Boye Larsen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år vandt Danmark Eurovision første gang?",
+      "answers": [
+        "1963",
+        "2000",
+        "2013",
+        "Aldrig"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Born in the USA?",
+      "answers": [
+        "Bob Dylan",
+        "Neil Young",
+        "Bruce Springsteen",
+        "Tom Petty"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Basket Case?",
+      "answers": [
+        "Blink-182",
+        "Green Day",
+        "Sum 41",
+        "The Offspring"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er kendt som The Boss?",
+      "answers": [
+        "Bob Dylan",
+        "Neil Young",
+        "Bruce Springsteen",
+        "Tom Petty"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev The Beatles opløst?",
+      "answers": [
+        "1968",
+        "1969",
+        "1970",
+        "1971"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Sweet Child O' Mine?",
+      "answers": [
+        "Bon Jovi",
+        "Guns N' Roses",
+        "Mötley Crüe",
+        "Poison"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller Geddy Lee?",
+      "answers": [
+        "Guitar",
+        "Trommer",
+        "Bas",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem lavede albummet Nevermind?",
+      "answers": [
+        "Pearl Jam",
+        "Soundgarden",
+        "Nirvana",
+        "Alice in Chains"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket dansk band lavede Fri?",
+      "answers": [
+        "Nephew",
+        "Mew",
+        "Kashmir",
+        "Under Byen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Billie Jean?",
+      "answers": [
+        "Prince",
+        "Michael Jackson",
+        "Madonna",
+        "Whitney Houston"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Enter Sandman?",
+      "answers": [
+        "Metallica",
+        "Megadeth",
+        "Slayer",
+        "Anthrax"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i AC/DC?",
+      "answers": [
+        "Bon Scott",
+        "Brian Johnson",
+        "Begge dele",
+        "Angus Young"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år døde Elvis Presley?",
+      "answers": [
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Hallelujah?",
+      "answers": [
+        "Bob Dylan",
+        "Leonard Cohen",
+        "Neil Young",
+        "Tom Waits"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Paranoid?",
+      "answers": [
+        "Led Zeppelin",
+        "Black Sabbath",
+        "Deep Purple",
+        "Uriah Heep"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i The Rolling Stones?",
+      "answers": [
+        "Keith Richards",
+        "Mick Jagger",
+        "Brian Jones",
+        "Ron Wood"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev Woodstock Festival afholdt?",
+      "answers": [
+        "1967",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Nothing Else Matters?",
+      "answers": [
+        "Metallica",
+        "Megadeth",
+        "Slayer",
+        "Anthrax"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller Keith Richards?",
+      "answers": [
+        "Guitar",
+        "Trommer",
+        "Bas",
+        "Keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem lavede albummet The Wall?",
+      "answers": [
+        "Pink Floyd",
+        "Led Zeppelin",
+        "The Doors",
+        "Genesis"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket dansk band lavede Langt fra København?",
+      "answers": [
+        "Kim Larsen",
+        "Gasolin",
+        "C.V. Jørgensen",
+        "Sebastian"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Highway to Hell?",
+      "answers": [
+        "Led Zeppelin",
+        "AC/DC",
+        "Deep Purple",
+        "Black Sabbath"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede With or Without You?",
+      "answers": [
+        "U2",
+        "R.E.M.",
+        "The Police",
+        "Simple Minds"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er kendt som The Godfather of Soul?",
+      "answers": [
+        "James Brown",
+        "Ray Charles",
+        "Marvin Gaye",
+        "Otis Redding"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år døde Freddie Mercury?",
+      "answers": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Hey Jude?",
+      "answers": [
+        "The Beatles",
+        "Rolling Stones",
+        "The Who",
+        "The Kinks"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Kashmir?",
+      "answers": [
+        "The Who",
+        "Led Zeppelin",
+        "Deep Purple",
+        "Black Sabbath"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i Foo Fighters?",
+      "answers": [
+        "Dave Grohl",
+        "Taylor Hawkins",
+        "Nate Mendel",
+        "Pat Smear"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev Live Aid koncerten afholdt?",
+      "answers": [
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Rocket Man?",
+      "answers": [
+        "David Bowie",
+        "Elton John",
+        "Rod Stewart",
+        "Billy Joel"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller John Paul Jones?",
+      "answers": [
+        "Guitar",
+        "Trommer",
+        "Bas",
+        "Keyboard"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem lavede albummet Abbey Road?",
+      "answers": [
+        "The Beatles",
+        "Rolling Stones",
+        "The Who",
+        "The Kinks"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket dansk band lavede Under Bøgen?",
+      "answers": [
+        "Kim Larsen",
+        "Gasolin",
+        "C.V. Jørgensen",
+        "Sebastian"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Voodoo Child?",
+      "answers": [
+        "Eric Clapton",
+        "Jimi Hendrix",
+        "Jeff Beck",
+        "Jimmy Page"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Whole Lotta Love?",
+      "answers": [
+        "The Who",
+        "Led Zeppelin",
+        "Deep Purple",
+        "Black Sabbath"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er kendt som The Queen of Soul?",
+      "answers": [
+        "Aretha Franklin",
+        "Diana Ross",
+        "Tina Turner",
+        "Etta James"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev MTV Unplugged startet?",
+      "answers": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Space Oddity?",
+      "answers": [
+        "David Bowie",
+        "Elton John",
+        "Rod Stewart",
+        "Billy Joel"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller Ringo Starr?",
+      "answers": [
+        "Guitar",
+        "Trommer",
+        "Bas",
+        "Keyboard"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem lavede albummet Rumours?",
+      "answers": [
+        "Eagles",
+        "Fleetwood Mac",
+        "Boston",
+        "Journey"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket dansk band lavede Smukke Unge Menschen?",
+      "answers": [
+        "Nephew",
+        "Mew",
+        "Kashmir",
+        "Under Byen"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Satisfaction?",
+      "answers": [
+        "The Beatles",
+        "Rolling Stones",
+        "The Who",
+        "The Kinks"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket band lavede Wish You Were Here?",
+      "answers": [
+        "Pink Floyd",
+        "Led Zeppelin",
+        "The Doors",
+        "Genesis"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem er forsanger i The Doors?",
+      "answers": [
+        "Ray Manzarek",
+        "Robby Krieger",
+        "John Densmore",
+        "Jim Morrison"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket år blev Nirvana dannet?",
+      "answers": [
+        "1985",
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Musik",
+      "question": "Hvem sang Knockin' on Heaven's Door?",
+      "answers": [
+        "Bob Dylan",
+        "Neil Young",
+        "Bruce Springsteen",
+        "Tom Petty"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Musik",
+      "question": "Hvilket instrument spiller Eddie Van Halen?",
+      "answers": [
+        "Guitar",
+        "Trommer",
+        "Bas",
+        "Keyboard"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt Ballon d'Or 2023?",
+      "answers": [
+        "Messi",
+        "Ronaldo",
+        "Mbappé",
+        "Haaland"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev første moderne OL afholdt?",
+      "answers": [
+        "1892",
+        "1896",
+        "1900",
+        "1904"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange spillere er der på et fodboldhold?",
+      "answers": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt Tour de France 7 gange?",
+      "answers": [
+        "Lance Armstrong",
+        "Eddy Merckx",
+        "Miguel Indurain",
+        "Chris Froome"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år vandt Danmark EM i fodbold?",
+      "answers": [
+        "1988",
+        "1992",
+        "1996",
+        "2000"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har vundet flest Grand Slams i tennis?",
+      "answers": [
+        "Federer",
+        "Nadal",
+        "Djokovic",
+        "Sampras"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange runder er der i en boksekamp?",
+      "answers": [
+        "10",
+        "12",
+        "15",
+        "Varierer"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev basketball opfundet?",
+      "answers": [
+        "1881",
+        "1891",
+        "1901",
+        "1911"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem scorede flest mål i VM?",
+      "answers": [
+        "Pelé",
+        "Ronaldo",
+        "Klose",
+        "Müller"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor lang er en marathon?",
+      "answers": [
+        "40 km",
+        "42,195 km",
+        "45 km",
+        "50 km"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold vandt første Super Bowl?",
+      "answers": [
+        "Cowboys",
+        "Packers",
+        "Steelers",
+        "Patriots"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem er den hurtigste mand i verden?",
+      "answers": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Tyson Gay",
+        "Asafa Powell"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange OL guld har Michael Phelps?",
+      "answers": [
+        "18",
+        "21",
+        "23",
+        "28"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år vandt Brøndby sidst mesterskabet?",
+      "answers": [
+        "2002",
+        "2005",
+        "2008",
+        "2021"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 2018?",
+      "answers": [
+        "Tyskland",
+        "Frankrig",
+        "Kroatien",
+        "Brasilien"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange point er et touchdown?",
+      "answers": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold har vundet flest Champions League?",
+      "answers": [
+        "Barcelona",
+        "Real Madrid",
+        "AC Milan",
+        "Bayern München"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 2022?",
+      "answers": [
+        "Frankrig",
+        "Argentina",
+        "Brasilien",
+        "Tyskland"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange spillere er der på et ishockeyhold?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev FIFA grundlagt?",
+      "answers": [
+        "1894",
+        "1904",
+        "1914",
+        "1924"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest Grand Slam titler i dametennis?",
+      "answers": [
+        "Graf",
+        "Williams",
+        "Court",
+        "Navratilova"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange sæt skal man vinde i Grand Slam herrer?",
+      "answers": [
+        "2 ud af 3",
+        "3 ud af 5",
+        "4 ud af 7",
+        "Varierer"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold vandt NBA 2023?",
+      "answers": [
+        "Warriors",
+        "Celtics",
+        "Nuggets",
+        "Lakers"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har vundet flest OL guld samlet?",
+      "answers": [
+        "Carl Lewis",
+        "Usain Bolt",
+        "Michael Phelps",
+        "Paavo Nurmi"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange baser er der i baseball?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev første VM i fodbold afholdt?",
+      "answers": [
+        "1928",
+        "1930",
+        "1932",
+        "1934"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 2014?",
+      "answers": [
+        "Argentina",
+        "Tyskland",
+        "Holland",
+        "Brasilien"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange holes er der i golf?",
+      "answers": [
+        "9",
+        "12",
+        "18",
+        "24"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold har vundet flest Super Bowl?",
+      "answers": [
+        "Cowboys",
+        "Patriots",
+        "Steelers",
+        "Begge B og C"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem er den yngste Grand Slam vinder?",
+      "answers": [
+        "Becker",
+        "Chang",
+        "Wilander",
+        "Nadal"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange perioder er der i ishockey?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev første OL i antikken afholdt?",
+      "answers": [
+        "776 f.Kr.",
+        "500 f.Kr.",
+        "400 f.Kr.",
+        "300 f.Kr."
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 2010?",
+      "answers": [
+        "Holland",
+        "Spanien",
+        "Tyskland",
+        "Brasilien"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange innings er der i baseball?",
+      "answers": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold vandt første NBA mesterskab?",
+      "answers": [
+        "Warriors",
+        "Lakers",
+        "Celtics",
+        "76ers"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest karriere grand slams i baseball?",
+      "answers": [
+        "Ruth",
+        "Bonds",
+        "Rodriguez",
+        "Mantle"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange pins er der i bowling?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev Wimbledon startet?",
+      "answers": [
+        "1867",
+        "1877",
+        "1887",
+        "1897"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 2006?",
+      "answers": [
+        "Frankrig",
+        "Italien",
+        "Tyskland",
+        "Brasilien"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange spillere starter i rugby?",
+      "answers": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold har vundet flest Serie A?",
+      "answers": [
+        "AC Milan",
+        "Inter",
+        "Juventus",
+        "Roma"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem er den hurtigste kvinde i verden?",
+      "answers": [
+        "Marion Jones",
+        "Florence Griffith-Joyner",
+        "Shelly-Ann Fraser-Pryce",
+        "Elaine Thompson"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange frames er der i snooker?",
+      "answers": [
+        "Varierer",
+        "15",
+        "19",
+        "21"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev UEFA grundlagt?",
+      "answers": [
+        "1944",
+        "1954",
+        "1964",
+        "1974"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 2002?",
+      "answers": [
+        "Frankrig",
+        "Tyskland",
+        "Brasilien",
+        "Argentina"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange dommere er der i fodbold?",
+      "answers": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold vandt første Champions League?",
+      "answers": [
+        "Real Madrid",
+        "Barcelona",
+        "AC Milan",
+        "Bayern"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest karriere home runs?",
+      "answers": [
+        "Ruth",
+        "Aaron",
+        "Bonds",
+        "A-Rod"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange majors er der i golf?",
+      "answers": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev NFL grundlagt?",
+      "answers": [
+        "1910",
+        "1920",
+        "1930",
+        "1940"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 1998?",
+      "answers": [
+        "Brasilien",
+        "Frankrig",
+        "Italien",
+        "Tyskland"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange outs er der per inning i baseball?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold har vundet flest Bundesliga?",
+      "answers": [
+        "Dortmund",
+        "Bayern München",
+        "Hamburg",
+        "Köln"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest karriere assists i NBA?",
+      "answers": [
+        "Magic Johnson",
+        "John Stockton",
+        "Jason Kidd",
+        "Steve Nash"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange dart kast har man per tur?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev NBA grundlagt?",
+      "answers": [
+        "1936",
+        "1946",
+        "1956",
+        "1966"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 1994?",
+      "answers": [
+        "Italien",
+        "Brasilien",
+        "Argentina",
+        "Tyskland"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange spor er der på en standardatletikbane?",
+      "answers": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold vandt første World Series?",
+      "answers": [
+        "Yankees",
+        "Red Sox",
+        "Giants",
+        "Athletics"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest karriere points i NBA?",
+      "answers": [
+        "Jordan",
+        "Bryant",
+        "Abdul-Jabbar",
+        "LeBron"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange wickets skal man tage i cricket?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev første Tour de France afholdt?",
+      "answers": [
+        "1893",
+        "1903",
+        "1913",
+        "1923"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 1990?",
+      "answers": [
+        "Italien",
+        "Argentina",
+        "Vesttyskland",
+        "England"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange squares er der på et skakbræt?",
+      "answers": [
+        "49",
+        "64",
+        "81",
+        "100"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold har vundet flest La Liga?",
+      "answers": [
+        "Real Madrid",
+        "Barcelona",
+        "Atletico Madrid",
+        "Valencia"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest karriere strikeouts i MLB?",
+      "answers": [
+        "Ryan",
+        "Johnson",
+        "Clemens",
+        "Maddux"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange rækkefølger er der i karate?",
+      "answers": [
+        "8",
+        "10",
+        "12",
+        "Varierer"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev første Wimbledon afholdt?",
+      "answers": [
+        "1867",
+        "1877",
+        "1887",
+        "1897"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 1986?",
+      "answers": [
+        "Vesttyskland",
+        "Argentina",
+        "Brasilien",
+        "Italien"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange taekwondo bælter er der?",
+      "answers": [
+        "8",
+        "9",
+        "10",
+        "Varierer"
+      ],
+      "correct": 3
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold har vundet flest Premier League?",
+      "answers": [
+        "Liverpool",
+        "Manchester United",
+        "Chelsea",
+        "Arsenal"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem har flest karriere goals i NHL?",
+      "answers": [
+        "Gretzky",
+        "Howe",
+        "Lemieux",
+        "Ovechkin"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange runder er der i UFC?",
+      "answers": [
+        "3",
+        "5",
+        "Begge dele",
+        "7"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket år blev første Super Bowl afholdt?",
+      "answers": [
+        "1963",
+        "1965",
+        "1967",
+        "1969"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvem vandt VM i fodbold 1982?",
+      "answers": [
+        "Vesttyskland",
+        "Italien",
+        "Brasilien",
+        "Argentina"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvor mange perioder er der i basketballkamp?",
+      "answers": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2
+    },
+    {
+      "category": "Sport & Fritid",
+      "question": "Hvilket hold vandt første Stanley Cup?",
+      "answers": [
+        "Canadiens",
+        "Maple Leafs",
+        "Bruins",
+        "Rangers"
+      ],
+      "correct": 0
+    },
+    {
+      "category": "Historie",
+      "question": "Hvilket år blev Kalundborg grundlagt?",
+      "answers": [
+        "1100",
+        "1170",
+        "1200",
+        "1250"
+      ],
+      "correct": 1
+    },
+    {
+      "category": "Historie",
+      "question": "Hvem var konge under Københavns Brand 1795?",
+      "answers": [
+        "Christian VI",
+        "Frederik V",
+        "Christian VII",
+        "Frederik VI"
+      ],
+      "correct": 2
+    }
+  ]
+}
